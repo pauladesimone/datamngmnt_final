@@ -1,0 +1,5 @@
+OPTIMAL IDEA: central coutyard buildings are a well know typology in the center of Berlin. However this typology, along with the shortened sun hours during winter time contribute to the lack of light in many Berliner flatts. Mirror-me pretends to create adaptive panels that re-orient sunlight towards the appartments that fin themselves in the shadows. By means of this app, you are able to simulate the orientation for a central courtyard panelized structure. to achieve more reflected sun hours during a desired period of time. 
+
+Issues: not sure how to simulate sunlight patters without using ladybug tools. tried baking sun curves but not sure how that works. Also, maybe the urban script is too heavy
+
+Back-up idea: kinetic facade design. following a stimuli (if not sun, other)
